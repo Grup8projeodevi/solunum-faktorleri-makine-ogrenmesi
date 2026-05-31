@@ -32,7 +32,7 @@
 
 [cite_start]Tüm modellerin ROC-AUC eğrilerinin 0.58 bandında kümelenmesi, sorunun algoritmik bir zayıflıktan çok azınlık sınıfı yetersizliğinden kaynaklandığını doğrulamaktadır[cite: 46, 47].
 
-**Tablo 2: KNN Modeli Konfüzyon Matrisi**
+**Tablo 2: KNN Modeli Konfüzyon Matrisi**.
 | Gerçek / Tahmin Durumu | Sınıf 1 (Tahmin: Astım) | Sınıf 0 (Tahmin: Sağlıklı) | Toplam (Support) |
 | :--- | :--- | :--- | :--- |
 | Sınıf 1 (Gerçek: Astım) | 22 (True Positive) | 277 (False Negative) | 299 |
