@@ -11,7 +11,7 @@ Bu proje, Centers for Disease Control and Prevention (CDC) tarafından paylaşı
 Proje mimarisi veri bilimi standartlarına uygun olarak aşağıdaki gibi kurgulanmıştır:
 * `/data`: İşlenmiş veri setleri ve veri sözlükleri.
 * `/notebooks`: Keşifsel Veri Analizi (EDA) ve model deneme Jupyter Notebook dosyaları.
-* `/src`: Temel KNN modelleme, ön işleme ve kaynak Python kodları.
+* `/src`:Analiz sonrası üretim (production) aşaması için planlanan Python scriptleri.
 * `/analysis`: Model başarı metrikleri (F1, AUC-ROC), konfüzyon matrisleri ve grafik çıktıları.
 * `/docs`: Akademik makale raporu (Cambria, APA 7 formatında) ve sunum dosyaları.
 
